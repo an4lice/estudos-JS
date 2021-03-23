@@ -1,0 +1,77 @@
+body{
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    padding: 200px 250px 200px 250px;
+    float: center;
+    background-color: rgba(211, 235, 243, 0.679);
+    line-height: 1.65em;
+}
+
+#comunidade h1{
+    color: rgb(74, 208, 208);
+}
+
+#comunidade h2{
+    color:rgb(149, 211, 55);
+}
+
+#comunidade p{
+    color: rgb(104, 104, 104)
+}
+
+#comunidade{
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px 0px 3px 3px rgb(233, 230, 230);
+    
+}
+
+#preco{
+    background-color: rgb(14, 154, 158);
+    color: white;
+    padding: 40px;
+    padding-bottom: 147px;
+    display: block;
+    width: 340px;
+    float: left;
+    border-radius: 0px 0px 0px 10px;
+    text-align:justify;
+}
+
+.button{
+    background-color: rgba(152, 243, 60, 0.837);
+    color: black;
+    box-shadow: 2px 2px  rgba(186, 233, 235, 0.433);
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+span{
+    font-size: 35px;
+    font-style: bold;
+}
+
+aside{
+    background-color: rgb(21, 181, 181);
+    color: white;
+    padding: 40px;
+    display: block;
+    padding-bottom: 117px;
+    width: 333px;
+    float: right;
+    border-radius: 0px 0px 10px 0px;
+}
+
+footer{
+    text-align:left;
+    text-decoration: none;
+    color: rgb(74, 208, 208);
+}
