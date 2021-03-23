@@ -1,0 +1,32 @@
+body{
+    background-color: darksalmon;
+    font-family: "apple-system", sans-serif;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    padding: 25px;
+}
+
+section{
+    background-color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow:  5px 5px 10px rgba(255, 255, 255, 0.905);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+
+footer{
+    font-size: 14px;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    font-style: italic;
+}
